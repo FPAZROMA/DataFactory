@@ -1,0 +1,9 @@
+{
+	"name": "fpazdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7ab2dda-4489-485e-b90e-02b684f137da",
+		"tenantId": "246ceb92-6da1-45e2-b431-6e24d0f47b3b"
+	}
+}
